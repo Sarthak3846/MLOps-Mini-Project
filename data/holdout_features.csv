@@ -1,0 +1,251 @@
+record_id,date,flu_cases_reported,temp_c,nearby_clinics,discount_pct,stock_lines,distance_to_hospital_km,shop_type,locality
+R50001,2026-09-01,101,11.4,4,20.9,1395,5.92,independent,Cantonment
+R50002,2026-09-01,18,21.1,2,7.9,3790,8.82,independent,Cantonment
+R50003,2026-09-01,199,21.8,6,19.7,2002,6.0,hospital_store,Old Town
+R50004,2026-09-01,64,37.5,7,14.8,2110,1.63,independent,Cantonment
+R50005,2026-09-01,191,43.7,9,8.8,2790,9.92,hospital_store,New Town
+R50006,2026-09-01,190,19.8,11,6.2,3173,8.15,hospital_store,New Town
+R50007,2026-09-01,54,33.8,11,21.0,3697,0.95,independent,Old Town
+R50008,2026-09-01,133,25.0,5,4.9,3358,2.12,hospital_store,Cantonment
+R50009,2026-09-01,53,34.8,8,19.5,1751,4.21,independent,New Town
+R50010,2026-09-01,169,17.4,5,18.5,2137,1.87,chain,Cantonment
+R50011,2026-09-01,112,38.6,6,13.7,3328,2.85,hospital_store,Old Town
+R50012,2026-09-02,160,21.7,8,19.7,2658,3.46,hospital_store,Old Town
+R50013,2026-09-02,106,26.8,9,0.3,2859,3.83,hospital_store,Cantonment
+R50014,2026-09-02,63,27.4,3,24.5,3914,2.78,chain,Cantonment
+R50015,2026-09-02,78,37.6,9,4.0,1778,4.61,chain,New Town
+R50016,2026-09-02,94,44.6,8,14.3,1845,3.09,hospital_store,New Town
+R50017,2026-09-02,59,9.1,2,12.3,2959,6.72,hospital_store,Old Town
+R50018,2026-09-02,183,33.2,10,14.9,3879,9.4,hospital_store,New Town
+R50019,2026-09-02,121,5.1,3,10.2,1792,4.51,chain,Cantonment
+R50020,2026-09-02,26,30.6,8,12.0,3506,1.24,hospital_store,Old Town
+R50021,2026-09-03,152,37.7,2,1.4,3950,1.64,independent,Old Town
+R50022,2026-09-03,49,31.6,6,4.3,3011,4.84,independent,New Town
+R50023,2026-09-03,195,10.5,1,24.4,3868,3.98,chain,New Town
+R50024,2026-09-03,118,10.7,11,17.5,3858,7.72,independent,Cantonment
+R50025,2026-09-04,7,17.0,7,15.6,2171,6.67,independent,Old Town
+R50026,2026-09-04,93,14.8,2,23.5,1808,1.3,independent,Cantonment
+R50027,2026-09-04,13,6.3,7,20.1,1774,1.96,hospital_store,Cantonment
+R50028,2026-09-04,78,33.5,8,11.2,3365,2.91,chain,Cantonment
+R50029,2026-09-04,132,26.1,9,24.8,1667,8.66,hospital_store,New Town
+R50030,2026-09-04,186,43.7,3,12.4,1786,5.42,chain,New Town
+R50031,2026-09-04,189,30.6,3,3.8,2782,7.95,hospital_store,Cantonment
+R50032,2026-09-04,42,10.2,9,24.5,3127,3.5,hospital_store,Cantonment
+R50033,2026-09-04,156,31.6,6,2.9,2914,8.26,chain,New Town
+R50034,2026-09-05,81,14.9,10,16.3,2394,9.71,hospital_store,Cantonment
+R50035,2026-09-05,47,21.1,6,2.1,2360,9.37,hospital_store,Old Town
+R50036,2026-09-05,45,19.8,6,8.4,2235,0.7,hospital_store,Old Town
+R50037,2026-09-05,195,9.0,2,7.3,2712,5.44,independent,Old Town
+R50038,2026-09-05,132,37.4,2,12.0,2600,6.73,independent,New Town
+R50039,2026-09-05,181,41.7,8,10.0,2112,1.63,independent,Old Town
+R50040,2026-09-05,169,24.3,7,16.0,3300,9.1,independent,Cantonment
+R50041,2026-09-05,182,18.7,10,22.7,3846,7.03,hospital_store,Old Town
+R50042,2026-09-06,37,23.1,7,4.7,1506,0.86,independent,Cantonment
+R50043,2026-09-06,59,31.4,1,18.3,1655,5.04,independent,New Town
+R50044,2026-09-06,57,43.4,9,18.3,4068,1.52,independent,Cantonment
+R50045,2026-09-06,134,20.6,5,11.0,4060,9.12,hospital_store,Cantonment
+R50046,2026-09-06,192,24.4,10,22.7,2769,5.5,hospital_store,Cantonment
+R50047,2026-09-06,146,41.5,1,22.7,2652,9.22,hospital_store,Cantonment
+R50048,2026-09-06,101,41.5,12,20.9,1556,5.65,independent,New Town
+R50049,2026-09-06,187,19.1,6,19.5,2418,7.48,chain,Old Town
+R50050,2026-09-06,102,31.3,10,12.2,2833,2.66,chain,Old Town
+R50051,2026-09-06,181,16.8,3,15.7,1388,2.39,hospital_store,Cantonment
+R50052,2026-09-06,144,15.6,5,2.5,3563,7.78,chain,Cantonment
+R50053,2026-09-06,118,38.7,10,23.1,3726,6.51,hospital_store,Old Town
+R50054,2026-09-06,69,42.9,11,3.0,1640,4.25,hospital_store,New Town
+R50055,2026-09-06,15,14.3,9,6.2,3578,6.69,hospital_store,Old Town
+R50056,2026-09-06,131,43.7,1,0.3,3183,7.93,independent,Cantonment
+R50057,2026-09-06,68,8.5,3,24.1,2979,2.36,independent,New Town
+R50058,2026-09-07,104,37.5,7,5.7,3084,7.28,hospital_store,New Town
+R50059,2026-09-07,172,17.1,8,13.3,2208,6.12,hospital_store,Old Town
+R50060,2026-09-07,106,40.9,1,23.5,2255,1.09,hospital_store,Cantonment
+R50061,2026-09-07,31,17.6,2,20.5,2499,8.97,independent,Cantonment
+R50062,2026-09-07,157,26.2,6,19.7,4091,5.1,chain,Cantonment
+R50063,2026-09-07,173,35.6,1,14.0,1633,5.68,chain,Cantonment
+R50064,2026-09-07,4,15.1,2,8.6,2233,2.59,chain,New Town
+R50065,2026-09-07,30,28.9,10,18.2,2155,8.38,hospital_store,New Town
+R50066,2026-09-08,13,21.9,3,20.9,1849,6.16,independent,New Town
+R50067,2026-09-08,61,18.1,11,19.8,3238,0.77,hospital_store,Old Town
+R50068,2026-09-08,71,42.7,2,2.5,2581,8.41,independent,Cantonment
+R50069,2026-09-08,117,28.3,0,2.1,2012,1.45,chain,New Town
+R50070,2026-09-08,15,41.2,2,4.7,1997,8.39,chain,New Town
+R50071,2026-09-09,59,29.1,6,14.1,2165,5.41,independent,Cantonment
+R50072,2026-09-09,166,43.7,6,11.3,2012,8.89,hospital_store,Cantonment
+R50073,2026-09-09,81,26.8,3,18.5,2999,3.63,chain,Cantonment
+R50074,2026-09-09,97,25.1,8,10.6,2396,7.86,hospital_store,New Town
+R50075,2026-09-09,193,16.2,4,5.0,3683,2.56,independent,New Town
+R50076,2026-09-09,32,27.9,0,13.3,2852,0.23,independent,Old Town
+R50077,2026-09-09,189,34.1,5,1.9,3835,8.91,chain,New Town
+R50078,2026-09-09,94,8.0,9,14.5,2350,7.3,hospital_store,Old Town
+R50079,2026-09-09,51,10.6,12,14.6,3909,7.61,independent,New Town
+R50080,2026-09-09,103,28.3,7,23.4,2120,5.28,hospital_store,New Town
+R50081,2026-09-09,3,27.7,8,24.8,3520,8.83,hospital_store,Cantonment
+R50082,2026-09-09,178,35.3,10,1.1,1726,8.5,chain,Cantonment
+R50083,2026-09-10,186,18.6,4,1.0,1944,9.7,independent,Cantonment
+R50084,2026-09-10,17,38.1,6,1.0,3700,1.91,independent,Cantonment
+R50085,2026-09-10,59,25.6,1,2.6,2129,0.7,independent,Cantonment
+R50086,2026-09-10,105,24.3,9,1.5,2284,5.27,hospital_store,New Town
+R50087,2026-09-10,75,37.2,12,1.9,2804,3.45,hospital_store,Old Town
+R50088,2026-09-10,151,6.0,11,0.8,1684,5.51,independent,Old Town
+R50089,2026-09-10,29,24.7,6,15.1,3137,3.72,independent,Cantonment
+R50090,2026-09-11,17,38.2,5,21.3,3913,6.76,independent,New Town
+R50091,2026-09-11,195,28.2,2,15.3,3387,0.81,hospital_store,Cantonment
+R50092,2026-09-11,136,42.7,9,10.8,2168,1.9,hospital_store,Cantonment
+R50093,2026-09-12,23,42.8,3,6.1,1834,6.65,independent,Old Town
+R50094,2026-09-12,150,36.3,7,13.7,3097,6.92,independent,New Town
+R50095,2026-09-12,42,28.9,2,14.3,1810,2.22,hospital_store,Cantonment
+R50096,2026-09-12,10,25.8,7,5.8,3593,4.04,hospital_store,New Town
+R50097,2026-09-13,149,10.8,8,20.2,1876,7.61,hospital_store,Cantonment
+R50098,2026-09-13,52,41.0,0,20.0,2854,4.65,hospital_store,Cantonment
+R50099,2026-09-13,61,7.3,7,16.5,1644,3.46,independent,Cantonment
+R50100,2026-09-13,45,6.3,11,24.2,3941,3.36,hospital_store,Old Town
+R50101,2026-09-13,99,40.5,1,24.7,3460,0.21,chain,Cantonment
+R50102,2026-09-13,34,10.0,10,5.5,3228,1.73,independent,Old Town
+R50103,2026-09-14,97,11.2,11,3.0,1933,6.45,chain,Cantonment
+R50104,2026-09-14,26,36.2,12,3.9,3504,7.69,hospital_store,Old Town
+R50105,2026-09-14,169,43.4,9,19.0,1596,0.67,hospital_store,Cantonment
+R50106,2026-09-14,29,10.7,11,11.0,3611,7.02,hospital_store,New Town
+R50107,2026-09-14,68,34.7,1,3.6,3834,3.67,hospital_store,Old Town
+R50108,2026-09-14,146,27.9,10,3.7,2869,1.21,independent,Cantonment
+R50109,2026-09-14,172,30.2,9,17.0,1894,1.3,hospital_store,Cantonment
+R50110,2026-09-14,178,38.8,1,16.6,2914,8.85,hospital_store,New Town
+R50111,2026-09-14,85,32.9,7,1.2,2169,3.31,chain,Cantonment
+R50112,2026-09-15,85,43.8,2,1.1,3750,5.22,chain,Old Town
+R50113,2026-09-15,15,25.2,5,14.4,2090,8.86,chain,New Town
+R50114,2026-09-15,166,22.3,8,23.2,3065,6.07,independent,Cantonment
+R50115,2026-09-15,127,26.8,1,19.3,1674,4.38,independent,New Town
+R50116,2026-09-15,88,19.4,11,20.9,2840,1.76,independent,Cantonment
+R50117,2026-09-15,54,12.2,5,21.5,3607,5.5,independent,Cantonment
+R50118,2026-09-15,90,11.1,3,17.8,3126,9.35,hospital_store,New Town
+R50119,2026-09-15,147,20.6,11,11.4,2338,7.92,hospital_store,Old Town
+R50120,2026-09-15,150,23.2,1,14.3,2705,4.79,independent,Cantonment
+R50121,2026-09-16,183,44.5,4,8.2,3993,4.79,independent,Old Town
+R50122,2026-09-16,172,33.6,5,2.8,1651,3.37,hospital_store,Old Town
+R50123,2026-09-16,135,25.7,5,6.8,1840,2.37,independent,New Town
+R50124,2026-09-16,87,15.0,4,20.7,1469,8.67,hospital_store,New Town
+R50125,2026-09-16,192,42.6,8,24.9,1772,2.72,independent,New Town
+R50126,2026-09-16,158,31.8,12,8.5,3043,5.58,independent,Cantonment
+R50127,2026-09-17,152,19.5,4,24.8,3514,5.46,chain,New Town
+R50128,2026-09-17,12,11.4,11,23.1,3963,5.78,hospital_store,Old Town
+R50129,2026-09-17,196,33.0,7,1.5,3290,2.14,chain,Cantonment
+R50130,2026-09-17,8,34.8,7,10.0,2370,2.04,independent,New Town
+R50131,2026-09-17,31,31.7,7,21.9,2928,0.2,hospital_store,Cantonment
+R50132,2026-09-17,194,31.4,3,15.4,2247,8.1,independent,New Town
+R50133,2026-09-17,141,24.8,9,19.3,3807,2.5,independent,Old Town
+R50134,2026-09-17,58,14.8,4,3.0,1355,9.41,hospital_store,Cantonment
+R50135,2026-09-17,13,27.5,9,13.2,1365,5.74,independent,Cantonment
+R50136,2026-09-17,39,15.7,4,7.1,2486,4.36,hospital_store,Cantonment
+R50137,2026-09-18,1,12.7,4,4.0,2807,5.31,hospital_store,New Town
+R50138,2026-09-18,141,8.2,5,6.0,2591,3.99,hospital_store,Old Town
+R50139,2026-09-18,72,44.3,7,6.2,1698,7.07,independent,New Town
+R50140,2026-09-18,124,26.0,8,13.8,2590,1.56,chain,Cantonment
+R50141,2026-09-18,41,42.7,4,20.6,3445,7.56,independent,Old Town
+R50142,2026-09-18,56,32.9,4,1.4,1534,5.17,chain,New Town
+R50143,2026-09-18,55,28.8,1,7.3,3012,3.81,hospital_store,Cantonment
+R50144,2026-09-19,106,11.0,3,8.7,1849,5.77,hospital_store,New Town
+R50145,2026-09-19,19,25.0,7,17.8,2939,6.96,chain,Cantonment
+R50146,2026-09-19,118,19.2,9,15.9,2760,5.9,independent,Cantonment
+R50147,2026-09-19,134,37.4,3,20.2,3458,6.64,hospital_store,Old Town
+R50148,2026-09-19,47,43.3,6,15.6,1961,5.74,independent,Cantonment
+R50149,2026-09-19,145,11.4,11,20.9,2099,4.91,chain,Cantonment
+R50150,2026-09-19,51,43.8,11,3.8,3439,7.26,independent,Cantonment
+R50151,2026-09-19,35,28.4,9,17.1,3450,9.84,chain,Cantonment
+R50152,2026-09-19,78,20.0,6,19.6,2355,9.37,independent,Cantonment
+R50153,2026-09-19,62,38.4,2,1.8,2010,2.19,hospital_store,Cantonment
+R50154,2026-09-19,187,7.1,4,19.2,2081,5.24,independent,New Town
+R50155,2026-09-19,82,25.8,6,21.0,1638,5.44,independent,Cantonment
+R50156,2026-09-19,76,17.9,11,20.8,4121,8.65,chain,New Town
+R50157,2026-09-19,164,43.7,2,8.9,3112,9.68,independent,New Town
+R50158,2026-09-20,37,31.1,1,9.0,2475,7.05,independent,Cantonment
+R50159,2026-09-20,77,28.0,12,6.2,1715,8.74,independent,Cantonment
+R50160,2026-09-20,59,31.8,0,14.6,3779,3.68,independent,New Town
+R50161,2026-09-20,172,21.6,2,11.2,2956,1.29,independent,Cantonment
+R50162,2026-09-20,176,31.3,11,18.7,3177,7.88,independent,Cantonment
+R50163,2026-09-20,58,8.8,2,15.2,2181,1.32,chain,Cantonment
+R50164,2026-09-20,171,11.5,6,3.5,1515,8.38,hospital_store,Cantonment
+R50165,2026-09-20,139,7.4,6,13.6,1450,8.43,chain,Cantonment
+R50166,2026-09-21,116,41.7,2,4.0,1696,2.83,independent,New Town
+R50167,2026-09-21,110,35.1,11,13.7,3855,5.94,independent,Old Town
+R50168,2026-09-21,80,43.7,7,16.4,2836,4.01,hospital_store,New Town
+R50169,2026-09-21,162,42.9,11,2.3,1643,9.35,chain,New Town
+R50170,2026-09-21,25,17.3,8,7.6,2989,1.58,hospital_store,New Town
+R50171,2026-09-22,95,17.7,8,8.2,3232,2.53,chain,Cantonment
+R50172,2026-09-22,191,29.2,3,2.8,1694,8.12,hospital_store,Cantonment
+R50173,2026-09-22,36,35.1,2,22.7,2435,3.54,chain,New Town
+R50174,2026-09-22,173,33.1,11,13.7,2897,2.46,hospital_store,Cantonment
+R50175,2026-09-22,98,19.7,6,22.6,2628,6.85,hospital_store,Old Town
+R50176,2026-09-22,133,18.6,6,20.7,2179,3.85,chain,Old Town
+R50177,2026-09-22,166,35.7,1,2.1,2135,5.93,hospital_store,Old Town
+R50178,2026-09-22,95,40.0,7,12.8,1636,4.69,chain,Cantonment
+R50179,2026-09-23,144,6.6,9,22.8,2460,1.7,chain,Cantonment
+R50180,2026-09-23,118,7.8,8,15.0,3474,7.33,hospital_store,New Town
+R50181,2026-09-23,7,9.0,8,18.1,2095,6.96,chain,Cantonment
+R50182,2026-09-23,55,32.0,1,11.7,3564,2.62,hospital_store,New Town
+R50183,2026-09-23,79,24.1,7,10.3,3252,0.41,hospital_store,New Town
+R50184,2026-09-23,109,15.4,5,20.7,2504,5.15,independent,New Town
+R50185,2026-09-23,47,26.8,8,16.4,3386,6.43,independent,Cantonment
+R50186,2026-09-23,197,12.1,5,4.5,3817,1.83,hospital_store,Cantonment
+R50187,2026-09-23,151,30.4,2,13.7,2429,6.17,chain,New Town
+R50188,2026-09-24,113,14.0,10,14.5,4016,4.86,hospital_store,Cantonment
+R50189,2026-09-24,88,19.0,1,0.2,2949,2.8,hospital_store,Cantonment
+R50190,2026-09-24,52,15.9,8,6.8,3766,9.27,independent,Cantonment
+R50191,2026-09-24,57,9.2,3,4.5,1554,9.84,hospital_store,Cantonment
+R50192,2026-09-24,11,11.3,2,13.2,1688,3.37,hospital_store,New Town
+R50193,2026-09-24,112,6.7,9,7.5,1487,1.19,independent,New Town
+R50194,2026-09-24,198,38.1,10,21.1,1993,0.83,chain,Cantonment
+R50195,2026-09-24,25,18.2,7,11.8,3954,1.43,chain,Old Town
+R50196,2026-09-24,98,26.6,9,5.3,3617,3.31,independent,New Town
+R50197,2026-09-25,142,11.8,4,14.5,3508,5.86,hospital_store,New Town
+R50198,2026-09-25,43,9.8,6,4.5,2053,9.79,hospital_store,Cantonment
+R50199,2026-09-25,144,34.3,2,15.0,3590,7.06,independent,New Town
+R50200,2026-09-25,55,18.5,1,15.8,2949,8.73,independent,Cantonment
+R50201,2026-09-25,101,23.5,2,11.6,1861,1.67,chain,Old Town
+R50202,2026-09-25,20,12.7,6,24.1,2843,4.22,chain,Old Town
+R50203,2026-09-25,82,37.0,6,4.0,1461,9.6,independent,Cantonment
+R50204,2026-09-25,4,5.6,1,16.4,2038,0.16,independent,New Town
+R50205,2026-09-25,106,23.9,10,24.7,1488,8.92,independent,Cantonment
+R50206,2026-09-26,99,7.3,11,11.6,2867,7.56,hospital_store,Cantonment
+R50207,2026-09-26,100,35.1,8,2.3,2234,4.52,hospital_store,New Town
+R50208,2026-09-26,177,38.0,10,12.5,3839,8.42,independent,Old Town
+R50209,2026-09-26,7,27.7,6,1.7,1363,7.38,hospital_store,Cantonment
+R50210,2026-09-26,154,33.5,8,14.3,1352,9.5,independent,Cantonment
+R50211,2026-09-26,41,10.8,3,0.1,2896,2.51,hospital_store,Cantonment
+R50212,2026-09-26,77,24.7,5,11.7,1710,7.67,independent,Old Town
+R50213,2026-09-26,86,25.7,2,6.6,2772,2.11,independent,Old Town
+R50214,2026-09-26,70,14.5,2,1.3,2448,1.86,chain,Cantonment
+R50215,2026-09-26,37,44.9,3,13.6,1658,8.61,hospital_store,New Town
+R50216,2026-09-26,181,10.1,2,19.6,1458,4.84,chain,Cantonment
+R50217,2026-09-26,144,20.7,2,21.2,1645,7.89,independent,Old Town
+R50218,2026-09-26,186,32.9,9,14.2,3843,5.69,independent,Old Town
+R50219,2026-09-27,199,35.3,5,7.9,1970,2.79,independent,Old Town
+R50220,2026-09-27,175,8.3,1,17.0,2710,8.85,independent,Cantonment
+R50221,2026-09-27,104,35.6,9,7.7,3094,6.23,hospital_store,Cantonment
+R50222,2026-09-27,53,13.5,9,3.3,3278,7.98,chain,New Town
+R50223,2026-09-27,162,42.5,12,13.7,3037,1.35,independent,New Town
+R50224,2026-09-27,157,21.7,12,0.3,1986,9.06,chain,Old Town
+R50225,2026-09-27,120,26.5,4,4.4,2504,2.4,independent,New Town
+R50226,2026-09-28,176,18.1,0,13.7,1960,6.35,hospital_store,Cantonment
+R50227,2026-09-28,123,6.0,0,10.6,1558,8.33,independent,New Town
+R50228,2026-09-28,189,8.6,9,3.6,1480,6.95,chain,Old Town
+R50229,2026-09-28,84,35.0,10,4.5,2219,9.16,independent,Old Town
+R50230,2026-09-28,160,14.4,3,2.5,2504,1.8,chain,Cantonment
+R50231,2026-09-28,143,33.1,0,17.4,3156,6.36,hospital_store,Cantonment
+R50232,2026-09-28,122,14.4,2,22.7,3126,7.0,hospital_store,Old Town
+R50233,2026-09-28,82,38.0,3,12.0,3219,7.6,independent,Old Town
+R50234,2026-09-28,29,43.3,6,21.6,2432,6.56,hospital_store,New Town
+R50235,2026-09-28,157,28.8,6,25.0,3045,6.26,independent,New Town
+R50236,2026-09-28,104,20.7,9,7.0,2717,4.27,independent,Old Town
+R50237,2026-09-28,81,13.0,6,5.0,1939,9.24,independent,Old Town
+R50238,2026-09-29,60,9.2,2,14.9,1666,2.76,chain,New Town
+R50239,2026-09-29,190,33.0,9,6.6,1898,3.01,independent,Cantonment
+R50240,2026-09-29,183,6.4,12,17.4,1657,8.95,independent,Cantonment
+R50241,2026-09-29,117,28.1,4,11.4,2898,7.61,hospital_store,Cantonment
+R50242,2026-09-29,159,42.3,10,21.3,3281,4.65,hospital_store,Cantonment
+R50243,2026-09-29,137,37.9,3,9.7,3915,4.01,chain,Cantonment
+R50244,2026-09-29,181,20.5,9,9.8,2028,7.11,independent,Old Town
+R50245,2026-09-30,129,6.1,9,16.0,3112,6.92,hospital_store,Cantonment
+R50246,2026-09-30,156,39.0,7,24.7,2851,3.25,hospital_store,Cantonment
+R50247,2026-09-30,125,6.9,2,18.8,3200,2.54,independent,New Town
+R50248,2026-09-30,98,7.3,9,23.1,2407,3.94,chain,New Town
+R50249,2026-09-30,115,32.2,6,10.1,2671,5.49,hospital_store,New Town
+R50250,2026-09-30,33,25.9,3,22.6,3590,2.78,hospital_store,Cantonment
