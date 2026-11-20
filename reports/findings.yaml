@@ -1,0 +1,67 @@
+# MP046 findings
+
+group_id: "G208"
+problem_id: "MP046"
+
+data_issues:
+  leaking_column:
+    present: true
+    column: "units_billed_in_gst_return"
+
+  unit_mixup:
+    present: true
+    column: "discount_pct"
+    group_value: "Cantonment"
+    factor: 0.01
+
+  sentinel_value:
+    present: true
+    column: "stock_lines"
+    value: 999
+    count: 1
+
+  duplicate_rows:
+    present: true
+    count: 47
+
+  stuck_sensor:
+    present: false
+    column: null
+    start_date: null
+    end_date: null
+
+  target_typos:
+    present: true
+    count: 9
+
+  spelling_variants:
+    present: true
+    column: "shop_type"
+    true_levels: 3
+
+tracking:
+  experiment_name: null
+  best_run_id: null
+  registered_model_name: null
+  champion_version: null
+
+monitoring:
+  psi:
+    flu_cases_reported: null
+    temp_c: null
+    nearby_clinics: null
+    discount_pct: null
+    stock_lines: null
+    distance_to_hospital_km: null
+
+  most_drifted_feature: null
+
+  mae_by_group:
+    'Old Town': null
+    'New Town': null
+    'Cantonment': null
+
+  worst_served_group: null
+  mae_v1_on_check: null
+  mae_v2_on_check: null
+  decision: null
