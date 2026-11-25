@@ -40,10 +40,10 @@ data_issues:
     true_levels: 3
 
 tracking:
-  experiment_name: null
-  best_run_id: null
-  registered_model_name: null
-  champion_version: null
+  experiment_name: "mp046-pharmacy-sales"
+  best_run_id: "48e7e125a88f41f0ad2ac0fc578e9d4a"
+  registered_model_name: "mp046-sales-model"
+  champion_version: 1
 
 monitoring:
   psi:

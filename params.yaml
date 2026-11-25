@@ -1,0 +1,22 @@
+train_path: data/raw/train.csv
+later_path: data/raw/later.csv
+holdout_path: data/raw/holdout_features.csv
+tracking_uri: sqlite:///mlflow.db
+experiment_name: mp046-pharmacy-sales
+registered_model_name: mp046-sales-model
+model_path: models/model.joblib
+predictions_path: predictions/holdout_predictions.csv
+target: units_sold
+numeric_features:
+  - flu_cases_reported
+  - temp_c
+  - nearby_clinics
+  - discount_pct
+  - stock_lines
+  - distance_to_hospital_km
+categorical_features:
+  - shop_type
+  - locality
+val_fraction: 0.2
+target_typo_threshold: 2000
+random_state: 42
