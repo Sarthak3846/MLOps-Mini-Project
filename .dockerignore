@@ -1,0 +1,15 @@
+.git
+.gitignore
+.dvc
+.dvcignore
+.venv
+__pycache__
+*.pyc
+data
+mlruns
+mlartifacts
+mlflow.db
+predictions
+tests
+reports
+*.md
